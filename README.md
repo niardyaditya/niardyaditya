@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-Saya adalah seorang **Web Developer** yang berdedikasi untuk menciptakan aplikasi web yang interaktif, bersih, dan responsif. Saya memiliki ketertarikan kuat dalam memecahkan masalah lewat baris kode dan selalu bersemangat untuk mempelajari teknologi baru demi meningkatkan kualitas proyek yang saya bangun.
+Saya adalah seorang **Beginner Web Developer** yang berdedikasi untuk mempelajari cara menciptakan aplikasi web yang interaktif, bersih, dan responsif. Saya memiliki ketertarikan kuat dalam memecahkan masalah lewat baris kode dan selalu bersemangat untuk mengeksplorasi teknologi baru demi mengasah kemampuan pemrograman saya.
 
-- 🔭 Saat ini saya sedang aktif membangun **proyek web inovatif dan portofolio personal**
-- 🌱 Sedang memperdalam eksploitasi **JavaScript tingkat lanjut dan modern web framework**
-- 💬 Tanya saya tentang **Frontend Development, Desain Web, atau logika pemrograman**
-- ⚡ Fun fact: **Saya percaya bahwa kode yang rapi adalah kunci dari aplikasi yang hebat**
+- 🔭 Saat ini saya sedang aktif membangun **proyek web dasar dan memperbanyak portofolio personal**
+- 🌱 Sedang memperdalam eksploitasi **JavaScript tingkat lanjut dan dasar-dasar pengembangan web**
+- 💬 Tanya saya tentang **HTML, CSS, atau logika pemrograman dasar**
+- ⚡ Fun fact: **Saya percaya bahwa setiap developer ahli selalu memulai langkahnya sebagai seorang pemula**
 
 ---
 
@@ -70,23 +70,23 @@ Saya adalah seorang **Web Developer** yang berdedikasi untuk menciptakan aplikas
 
 ---
 
-## 📫 Connect with Me
+## 🚀 Connect with Me
 
 <p align="left">
   <a href="https://www.tiktok.com/@ardycukurukuk" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   
   <a href="https://instagram.com/norrrshyt" target="_blank">
-    <img src="https://instagram.com/[UsernameInstagramKamu]" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   
   <a href="https://wa.me/6281907192009" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   
-  <a href="https://t.me/[UsernameTelegramKamu]" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%232EA44F.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/Nar_city" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%232EA44F.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
