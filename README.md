@@ -1,24 +1,23 @@
-
 # Hi there! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=twinkling" alt="Banner Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Niardy%20|%20Web%20Developer&section=header&animation=twinkling&desc=Building%20clean%20and%20responsive%20web%20apps&descSize=25&descAlignY=69" alt="Banner Header" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[UsernameGitHubKamu]&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=niardyaditya&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Saya adalah seorang **[Peran Kamu, misal: Developer / Pelajar]** yang berfokus pada **[Fokus Kamu, misal: Web Development / Desain]**. Saya suka membangun proyek baru dan terus mempelajari teknologi terkini.
+Saya adalah seorang **Web Developer** yang berdedikasi untuk menciptakan aplikasi web yang interaktif, bersih, dan responsif. Saya memiliki ketertarikan kuat dalam memecahkan masalah lewat baris kode dan selalu bersemangat untuk mempelajari teknologi baru demi meningkatkan kualitas proyek yang saya bangun.
 
-- 🔭 Saat ini saya sedang mengerjakan **[Proyek/Kesibukan Saat Ini]**
-- 🌱 Sedang memperdalam **[Teknologi/Skill yang sedang dipelajari]**
-- 💬 Tanya saya tentang **[Topik keahlianmu]**
-- ⚡ Fun fact: **[Fakta unik tentang dirimu]**
+- 🔭 Saat ini saya sedang aktif membangun **proyek web inovatif dan portofolio personal**
+- 🌱 Sedang memperdalam eksploitasi **JavaScript tingkat lanjut dan modern web framework**
+- 💬 Tanya saya tentang **Frontend Development, Desain Web, atau logika pemrograman**
+- ⚡ Fun fact: **Saya percaya bahwa kode yang rapi adalah kunci dari aplikasi yang hebat**
 
 ---
 
@@ -63,10 +62,10 @@ Saya adalah seorang **[Peran Kamu, misal: Developer / Pelajar]** yang berfokus p
 
 ---
 
-## 💻 Programmer Humor
+## 💡 Dynamic Quote
 
 <p align="center">
-  <img src="https://github-readme-jokes.vercel.app/api?theme=radial&hide_border=true" alt="Jokes Card" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radial" alt="Quotes Card" />
 </p>
 
 ---
@@ -74,19 +73,22 @@ Saya adalah seorang **[Peran Kamu, misal: Developer / Pelajar]** yang berfokus p
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.tiktok.com/@[UsernameTikTokKamu]" target="_blank">
+  <a href="https://www.tiktok.com/@ardycukurukuk" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://instagram.com/[UsernameInstagramKamu]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  
+  <a href="https://instagram.com/norrrshyt" target="_blank">
+    <img src="https://instagram.com/[UsernameInstagramKamu]" target="_blank">
   </a>
-  <a href="https://wa.me/[NomorWhatsAppKamuContoh62812345678]" target="_blank">
+  
+  <a href="https://wa.me/6281907192009" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
+  
   <a href="https://t.me/[UsernameTelegramKamu]" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232EA44F.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
 ---
-<p align="center">Dibuat dengan ❤️ oleh [Nama Kamu]</p>
+<p align="center">Dibuat dengan ❤️ oleh Niardy Aditya</p>
