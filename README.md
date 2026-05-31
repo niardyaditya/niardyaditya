@@ -53,12 +53,12 @@ Saya adalah seorang **[Peran Kamu, misal: Developer / Pelajar]** yang berfokus p
 ## 📊 GitHub Stats & Monitoring
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[UsernameGitHubKamu]&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[UsernameGitHubKamu]&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niardyaditya&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niardyaditya&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[UsernameGitHubKamu]&theme=radial&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niardyaditya&theme=radial&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
